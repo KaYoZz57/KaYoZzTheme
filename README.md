@@ -1,1 +1,1 @@
-"# KaYoZzTheme" 
+# KaYoZzTheme
